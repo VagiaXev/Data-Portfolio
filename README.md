@@ -1,2 +1,2 @@
-# Data-Portfolio
-This is my personal portfolio of complete projects while gaining more experience as Data Analyst
+# Final-Assignment-Data-Science-Workearly
+This is the final assignment completed as part of my upskilling in Data Science. 
